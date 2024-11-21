@@ -47,9 +47,9 @@ Highly skilled Full Stack developer with emphasis on Frontend development. My ex
 
 ## 📊 GitHub Stats
 
-![Gaurav's GitHub stats](github-readme-stats-git-master-gaurav-quasars-projects.vercel.app/api?username=gaurav-quasar&count_private=true&show_icons=true&include_all_commits=true&cache_seconds=1800)
+![Gaurav's GitHub stats](https://github-readme-stats-git-master-gaurav-quasars-projects.vercel.app/api?username=gaurav-quasar&count_private=true&show_icons=true&include_all_commits=true&show=lines&cache_seconds=1800)
 
-![Top Langs](github-readme-stats-git-master-gaurav-quasars-projects.vercel.app/api/top-langs/?username=gaurav-quasar&layout=compact&cache_seconds=1800)
+![Top Langs](https://github-readme-stats-gaurav-quasars-projects.vercel.app/api/top-langs/?username=gaurav-quasar&layout=compact&cache_seconds=1800)
 
 ## 🌟 Soft Skills
 
